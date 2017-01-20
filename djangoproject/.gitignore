@@ -1,0 +1,7 @@
+*.pyc
+*~
+__pycache__
+myvenv
+django_db
+/static
+.DS_Store
